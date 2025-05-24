@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+
 
 # 📌 Configurar la página con título y diseño amplio
 st.set_page_config(page_title="Asesoramiento y Análisis Gastronómico - Tugasa", layout="wide")
@@ -61,16 +61,9 @@ elif menu == "📊 Análisis de Datos - Optimización y Rentabilidad":
     ✅ **Escandallo vs. precio de venta**, buscando mejoras en rentabilidad.  
     """)
 
-    # 📊 Métrica general: Estadísticas básicas sobre los precios
+    # 📌 Métrica general: Estadísticas básicas sobre los precios
     st.subheader("📌 Datos Generales sobre los Precios")
-    st.write(df["Precio"].describe())
-
-    # 📊 Distribución de Precios
-    st.subheader("📊 Distribución de precios por plato")
-    fig_dist = px.histogram(df, x="Precio", nbins=15, color="Restaurante",
-                                title="Distribución de precios de los platos en Tugasa",
-                                labels={"Precio": "Precio", "count": "Cantidad de platos"})
-    st.plotly_chart(fig_dist, use_container_width=True)
+    st.table(df["Precio"].describe().to_frame())
 
     st.markdown("""
     📌 **Observaciones:**  
@@ -78,12 +71,10 @@ elif menu == "📊 Análisis de Datos - Optimización y Rentabilidad":
     - La dispersión de precios indica que hay **una variabilidad notable entre restaurantes**, lo que podría impactar la percepción del cliente.  
     """)
 
-    # 📊 Gráfico de comparación de precios entre restaurantes
+    # 📌 Comparación de precios por restaurante en tabla
     st.subheader("💰 Comparación de precios entre restaurantes")
     precio_medio_por_restaurante = df.groupby("Restaurante")["Precio"].mean().reset_index()
-    fig1 = px.bar(precio_medio_por_restaurante, x="Restaurante", y="Precio", color="Precio", 
-                    title="Precio medio  € de los platos por restaurante", height=500)
-    st.plotly_chart(fig1, use_container_width=True)
+    st.table(precio_medio_por_restaurante)
 
     st.markdown("""
     📌 **Observaciones:**  
@@ -91,13 +82,11 @@ elif menu == "📊 Análisis de Datos - Optimización y Rentabilidad":
     - **¿Oportunidad?** Revisar los precios promedio y ajustar estrategias de marketing para posicionar la oferta.  
     """)
 
-    # 📊 Platos más repetidos
+    # 📌 Platos más repetidos en tabla
     st.subheader("🍽️ Platos más repetidos en los restaurantes")
     platos_repetidos = df["Plato"].value_counts().reset_index()
     platos_repetidos.columns = ["Plato", "Repeticiones"]
-    fig2 = px.bar(platos_repetidos.head(10), x="Plato", y="Repeticiones", color="Repeticiones", 
-                    title="Top 10 platos más recurrentes", height=500)
-    st.plotly_chart(fig2, use_container_width=True)
+    st.table(platos_repetidos.head(10))
 
     st.markdown("""
     📌 **Conclusiones sobre los platos más repetidos:**  
@@ -106,28 +95,12 @@ elif menu == "📊 Análisis de Datos - Optimización y Rentabilidad":
     - **La paella en sus distintas variantes también es un plato recurrente**, lo que refuerza la identidad mediterránea de la gastronomía.  
     """)
 
-    # 📊 Relación entre coste de escandallo y precio de venta
-    st.subheader("🔎 Coste de escandallo vs. Precio de venta")
-    df_filtrado = df.sort_values(by="Precio", ascending=False).head(10)
-    fig3 = px.scatter(df_filtrado, x="Precio", y="Ingredientes", color="Plato", 
-                        title="Comparación entre coste de ingredientes y precio de venta", height=500)
-    st.plotly_chart(fig3, use_container_width=True)
-
-    st.markdown("""
-    📌 **¿El precio de venta realmente cubre los costes?**  
-    - Los platos con ingredientes de alto coste, como **ternera, bacalao y mariscos**, tienen precios más elevados,  
-      pero la diferencia entre **coste de escandallo y precio de venta varía según el restaurante**.  
-    - ¿Podemos mejorar la rentabilidad?  
-       ✔ **Ajustando porciones y presentación** para maximizar el margen de beneficio.  
-       ✔ **Revisando el origen de los ingredientes** para encontrar proveedores más competitivos.  
-     """)
-
-    # 📊 KPI: Margen de rentabilidad estimado
+    # 📌 KPI: Margen de rentabilidad estimado en tabla
     df["Margen"] = df["Precio"] - df["Precio"] * 0.4  # Simulación de escandallo
     margen_promedio = df["Margen"].mean()
-
+    
     st.subheader("📈 Margen de Rentabilidad Estimado")
-    st.metric(label="📊 Margen Promedio por Plato €", value=round(margen_promedio, 2))
+    st.table(pd.DataFrame({"Margen Promedio por Plato (€)": [round(margen_promedio, 2)]}))
 
     st.markdown("""
     📌 **¿Es rentable la oferta actual?**  
@@ -135,9 +108,10 @@ elif menu == "📊 Análisis de Datos - Optimización y Rentabilidad":
     - **Opciones de mejora:**  
       ✔ Diseñar una oferta más equilibrada entre platos de bajo y alto coste.  
       ✔ Crear packs o menús degustación para potenciar el valor percibido sin afectar márgenes.  
-     """)
+    """)
 
     st.success("Este análisis nos permite **ajustar la oferta gastronómica y mejorar la rentabilidad de los restaurantes de Tugasa**.")
+
 
 # 📌 Página 3: David Méndez Sánchez - Trayectoria y Reconocimientos
 elif menu == "👨‍🍳 David Méndez Sánchez - Trayectoria":

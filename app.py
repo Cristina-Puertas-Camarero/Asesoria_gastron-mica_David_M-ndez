@@ -10,7 +10,7 @@ menu = st.sidebar.radio(
     "📌 Navegación",
     ["🏡 Introducción - Posicionamiento Gastronómico",
      "📊 Análisis de Datos - Optimización y Rentabilidad",
-     "👨‍🍳 David Méndez Sánchez - Trayectoria y Reconocimientos"]
+     "👨‍🍳 David Méndez Sánchez - Trayectoria"]
 )
 
 # 📌 Página 1: Introducción
@@ -139,10 +139,9 @@ elif menu == "📊 Análisis de Datos - Optimización y Rentabilidad":
 
     st.success("Este análisis nos permite **ajustar la oferta gastronómica y mejorar la rentabilidad de los restaurantes de Tugasa**.")
 
-    
-    # 📌 Página 3: David Méndez Sánchez - Trayectoria y Reconocimientos
-elif menu == "👨‍🍳 David Méndez Sánchez - Trayectoria ":
-    # 📌 Mostrar imagen del chef
+# 📌 Página 3: David Méndez Sánchez - Trayectoria y Reconocimientos
+elif menu == "👨‍🍳 David Méndez Sánchez - Trayectoria":
+   # 📌 Mostrar imagen del chef
     st.image("David.jpg", use_container_width=True)
     
     # 📌 Título con personalidad
@@ -169,13 +168,13 @@ elif menu == "👨‍🍳 David Méndez Sánchez - Trayectoria ":
     de darles el punto justo para que sean memorables sin hacer malabares en el plato.  
 
     ---
-    ### 🏅 **Premios y cosas de esas**  
+    ### 🏅 **Reconocimientos y cosas de esas**  
     No voy a decir que los premios no importan, porque oye, si te reconocen el trabajo, se agradece.  
 
     - **Bib Gourmand Michelin** (dos años seguidos, así que parece que no ha sido suerte).  
     - **Premio Gurmé a la cocina creativa** (esto suena muy elegante, pero la verdad es que me dieron el premio por hacer lo que me gusta).  
     - **Restaurante seleccionado en la Guía Repsol**.  
-    - **Considerado referente en cocina de autor en la provincia de Cádiz**.  
+    - **Reconocimientos en la Guías de Andalucía** (que no es poco).
 
     Pero si me preguntas, lo que más me importa es que **mis clientes salgan contentos, que vuelvan,  
     que un plato les recuerde a su infancia o a aquel viaje en el que comieron algo inolvidable**.  

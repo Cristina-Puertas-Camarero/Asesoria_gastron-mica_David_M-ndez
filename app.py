@@ -116,7 +116,7 @@ elif menu == "📊 Análisis de Datos - Optimización y Rentabilidad":
 # 📌 Página 3: David Méndez Sánchez - Trayectoria y Reconocimientos
 elif menu == "👨‍🍳 David Méndez Sánchez - Trayectoria":
    # 📌 Mostrar imagen del chef
-    st.image("https://drive.google.com/file/d/1yaP2fKHfckZiWGvkfLnICbi-euSgmzCa/view?usp=drive_link", use_container_width=True)
+    st.image("david.jpg", use_container_width=True)
 
     
     # 📌 Título con personalidad

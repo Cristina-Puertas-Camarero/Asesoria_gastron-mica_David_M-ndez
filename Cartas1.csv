@@ -1,0 +1,213 @@
+Restaurante,Plato,Precio,Ingredientes
+Villa de Algar Restaurante,"Ensalada ""Villa de Algar""",12.0,
+Villa de Algar Restaurante,Croquetas de jamón ibérico,7.0,
+Villa de Algar Restaurante,Chicharrones con huevo y patatas,8.0,
+Villa de Algar Restaurante,Carne de jabalí en salsa,11.0,
+Villa de Algar Restaurante,Venado en salsa,13.0,
+Villa de Algar Restaurante,Lomitos de venado a la gaditana,16.0,
+Villa de Algar Restaurante,Presa ibérica al estilo Villa de Algar,20.0,Paletilla de cerdo huevo pochado cebolla jamón ibérico patatas 
+Villa de Algar Restaurante,Jamón ibérico con pan moreno y tomate natural,12.0,
+Villa de Algar Restaurante,Caña de lomo ibérica,11.0,
+Villa de Algar Restaurante,Queso curado,10.0,
+Villa de Algar Restaurante,Gazpacho sin fondo,4.0,Pepino tomate pimiento aceite de oliva 
+Villa de Algar Restaurante,Gazpacho con fondo,4.5,"Pepino,    tomato,    pepper,    olive oil,    garnishes"
+Villa de Algar Restaurante,Salmorejo cordobés con guarnición,6.0,"Tomate,    bread,    garlic,    olive oil"
+Villa de Algar Restaurante,Huevos con chorizo y patatas,11.0,"Chorizo,  Jamón ibérico,    potatoes"
+Villa de Algar Restaurante,Revuelto del pastor,12.0,"Bacon,    chorizo,    potatoes,    fried pepper,    egg"
+Villa de Algar Restaurante,Revuelto de bacalao,14.0,"Bacalao,    scrambled eggs"
+Villa de Algar Restaurante,Paella de arroz negro,24.0,"Arroz,    seafood,    squid ink"
+Villa de Algar Restaurante,Paella de mariscos,24.0,"Mariscos,    rice,    saffron"
+Villa de Algar Restaurante,Paella de carne,22.0,"Meat,    rice,    saffron"
+Villa de Algar Restaurante,Paella mixta,20.0,"Meat,    seafood,    rice,    saffron"
+Villa de Algar Restaurante,Paella vegetariana,18.0,"Arroz,    vegetables,    saffron"
+Villa de Algar Restaurante,Pez espada a la casera con gambas,14.0,"Pez espada,    prawns,    homemade sauce"
+Villa de Algar Restaurante,Pez espada a la plancha,13.0,Pez espada
+Villa de Algar Restaurante,Merluza de pincho a la marinera,18.0,"Merluza,    seafood sauce"
+Villa de Algar Restaurante,Bacalao confitado a la naranja,15.0,"Bacalao,    orange,    olive oil"
+Villa de Algar Restaurante,Calamar a la plancha,20.0,Grilled squid
+Villa de Algar Restaurante,Huevos de chocos al ajillo,12.0,"Huevos de choco,    garlic"
+Villa de Algar Restaurante,Secreto ibérico a la plancha,18.0,Iberian pork low shoulder cut
+Villa de Algar Restaurante,Presa de cerdo ibérico,18.0,Iberian pork prey
+Villa de Algar Restaurante,Lagartito de cerdo ibérico,18.0,Iberian pork rib-loin strip
+Villa de Algar Restaurante,Abanico de cerdo ibérico,18.0,Iberian pork rib cover
+Villa de Algar Restaurante,Pechuga de pollo,10.0,Grilled chicken fillet
+Villa de Algar Restaurante,Churrasco de pollo,11.0,Chicken steak
+Villa de Algar Restaurante,Chuletón de ternera añojo,24.0,Yearling veal steak
+Villa de Algar Restaurante,Solomillo de ternera añojo,24.0,Yearling beef sirloin
+Villa de Algar Restaurante,Entrecot de ternera,24.0,Entrecot de ternera
+Villa de Algar Restaurante,Chuletitas de cordero lechal,17.0,Chuletitas de cordero lechal
+Villa de Algar Restaurante,Rabo de toro,18.0,"Bulls tail,    wine sauce"
+Villa de Algar Restaurante,Carrillada de cerdo ibérico en salsa,13.0,"Iberian pork cheeks,    sauce"
+Villa de Algar Restaurante,Punta de solomillo ibérico al oporto,16.0,"Iberian sirloin tip,    Oporto style"
+Villa de Algar Restaurante,Solomillo de cerdo a la casera,16.0,"Pork sirloin steak,    homemade sauce"
+Villa de Algar Restaurante,Paletilla de cabrito lechal en su jugo,27.0,"Suckling goat,    own juice"
+Villa de Algar Restaurante,Tarta de queso con miel,5.0,"Queso,    honey"
+Villa de Algar Restaurante,Flan casero,3.5,"Huevo,    caramel"
+Villa de Algar Restaurante,Tocino de cielo,4.0,"Egg yolk,    syrup"
+Villa de Algar Restaurante,Crema de higo sobre helado,4.0,"Figs,    ice cream"
+Villa de Algar Restaurante,Tarta de queso y chocolate blanco,5.0,"White chocolate,    cheese"
+Villa de Algar Restaurante,Tarta de pistacho,5.0,Pistachio
+Villa de Algar Restaurante,Tarta de galletas Lotus,4.5,Lotus cookies
+Villa de Algar Restaurante,Tarta tres chocolates,4.5,"Capas de chocolate,    cream"
+El Refectorio,Salmorejo Cordobés,6.0,"Tomate,    bread,    garlic,    olive oil"
+El Refectorio,Rabo de Toro,18.0,"Bulls tail,    wine sauce"
+El Refectorio,Alcachofas marineras con gambas,13.0,"Artichokes,    prawns,    seafood sauce"
+El Refectorio,Huevos revueltos con chorizo y jamón,11.0,"Chorizo,  Jamón ibérico,    eggs,    potatoes"
+El Refectorio,Revuelto de bacalao,14.0,"Bacalao,    scrambled eggs,    olive oil"
+El Refectorio,Gazpacho andaluz,4.5,"Pepino,    tomato,    pepper,    olive oil"
+El Refectorio,Paella de mariscos,24.0,"Mariscos,    rice,    saffron"
+El Refectorio,Pez espada a la plancha,13.0,"Pez espada,    olive oil,    garlic"
+El Refectorio,Secreto ibérico a la plancha,18.0,Iberian pork low shoulder cut
+El Refectorio,Entrecot de ternera,24.0,"Entrecot de ternera,    grilled"
+El Refectorio,Solomillo de ternera,24.0,Yearling beef sirloin
+El Refectorio,Chuletitas de cordero lechal,17.0,"Chuletitas de cordero lechal,    grilled"
+El Refectorio,Tarta de queso con miel,5.0,"Queso,    honey"
+El Refectorio,Tarta de pistacho,5.0,"Pistachio,    cream"
+El Refectorio,Tarta tres chocolates,4.5,"Capas de chocolate,    cream"
+Las Truchas Restaurante,Gazpacho andaluz,4.5,"Pepino,    tomato,    pepper,    olive oil  "
+Las Truchas Restaurante,Salmorejo cordobés,6.0,"Tomate,    bread,    garlic,    olive oil  "
+Las Truchas Restaurante,Paella de mariscos,24.0,"Mariscos,    rice,    saffron  "
+Las Truchas Restaurante,Paella mixta,20.0,"Meat,    seafood,    rice,    saffron  "
+Las Truchas Restaurante,Pez espada a la plancha,13.0,"Pez espada,    olive oil  "
+Las Truchas Restaurante,Merluza de pincho a la marinera,18.0,"Merluza,    seafood sauce  "
+Las Truchas Restaurante,Bacalao confitado a la naranja,15.0,"Bacalao,    orange,    olive oil  "
+Las Truchas Restaurante,Calamar a la plancha,20.0,Grilled squid  
+Las Truchas Restaurante,Secreto ibérico a la plancha,18.0,Iberian pork low shoulder cut  
+Las Truchas Restaurante,Presa de cerdo ibérico,18.0,Iberian pork prey  
+Las Truchas Restaurante,Lagartito de cerdo ibérico,18.0,Iberian pork rib-loin strip  
+Las Truchas Restaurante,Abanico de cerdo ibérico,18.0,Iberian pork rib cover  
+Las Truchas Restaurante,Rabo de toro,18.0,"Bulls tail,    wine sauce  "
+Las Truchas Restaurante,Tarta de queso con miel,5.0,"Queso,    honey  "
+Las Truchas Restaurante,Tarta tres chocolates,4.5,"Capas de chocolate,    cream  "
+Las Truchas Restaurante,Tarta de galletas Lotus,4.5,Lotus cookies  
+Los Llanos Restaurante,Solomillo de ternera añojo,24.0,Yearling beef sirloin  
+Los Llanos Restaurante,Chuletón de ternera añojo,24.0,Yearling veal steak  
+Los Llanos Restaurante,Entrecot de ternera,24.0,Entrecot de ternera
+Los Llanos Restaurante,Chuletitas de cordero lechal,17.0,Chuletitas de cordero lechal
+Los Llanos Restaurante,Secreto ibérico a la plancha,18.0,Iberian pork low shoulder cut  
+Los Llanos Restaurante,Presa de cerdo ibérico,18.0,Iberian pork prey  
+Los Llanos Restaurante,Lagartito de cerdo ibérico,18.0,Iberian pork rib-loin strip  
+Los Llanos Restaurante,Abanico de cerdo ibérico,18.0,Iberian pork rib cover  
+Los Llanos Restaurante,Paella de carne,22.0,"Meat,    rice,    saffron  "
+Los Llanos Restaurante,Paella mixta,20.0,"Meat,    seafood,    rice,    saffron  "
+Los Llanos Restaurante,Paella vegetariana,18.0,"Arroz,    vegetables,    saffron  "
+Los Llanos Restaurante,Bacalao confitado a la naranja,15.0,"Bacalao,    orange,    olive oil  "
+Los Llanos Restaurante,Merluza de pincho a la marinera,18.0,"Merluza,    seafood sauce  "
+Los Llanos Restaurante,Calamar a la plancha,20.0,Grilled squid  
+Los Llanos Restaurante,Huevos de chocos al ajillo,12.0,"Huevos de choco,    garlic  "
+Los Llanos Restaurante,Tarta de queso con miel,5.0,"Queso,    honey  "
+Los Llanos Restaurante,Tarta de pistacho,5.0,"Pistachio,    cream  "
+Los Llanos Restaurante,Tarta tres chocolates,4.5,"Capas de chocolate,    cream  "
+Peñón de Zahara Restaurante,Bacalao confitado a la naranja,15.0,"Bacalao,    orange,    olive oil  "
+Peñón de Zahara Restaurante,Merluza de pincho a la marinera,18.0,"Merluza,    seafood sauce  "
+Peñón de Zahara Restaurante,Pez espada a la casera con gambas,14.0,"Pez espada,    prawns,    homemade sauce  "
+Peñón de Zahara Restaurante,Pez espada a la plancha,13.0,Pez espada
+Peñón de Zahara Restaurante,Calamar a la plancha,20.0,Grilled squid  
+Peñón de Zahara Restaurante,Huevos de chocos al ajillo,12.0,"Huevos de choco,    garlic  "
+Peñón de Zahara Restaurante,Paella de mariscos,24.0,"Mariscos,    rice,    saffron  "
+Peñón de Zahara Restaurante,Paella de carne,22.0,"Meat,    rice,    saffron  "
+Peñón de Zahara Restaurante,Paella mixta,20.0,"Meat,    seafood,    rice,    saffron  "
+Peñón de Zahara Restaurante,Paella vegetariana,18.0,"Arroz,    vegetables,    saffron  "
+Peñón de Zahara Restaurante,Secreto ibérico a la plancha,18.0,Iberian pork low shoulder cut  
+Peñón de Zahara Restaurante,Presa de cerdo ibérico,18.0,Iberian pork prey  
+Peñón de Zahara Restaurante,Lagartito de cerdo ibérico,18.0,Iberian pork rib-loin strip  
+Peñón de Zahara Restaurante,Abanico de cerdo ibérico,18.0,Iberian pork rib cover  
+Peñón de Zahara Restaurante,Rabo de toro,18.0,"Bulls tail,    wine sauce  "
+Peñón de Zahara Restaurante,Solomillo de ternera añojo,24.0,Yearling beef sirloin  
+Peñón de Zahara Restaurante,Chuletón de ternera añojo,24.0,Yearling veal steak  
+Peñón de Zahara Restaurante,Entrecot de ternera,24.0,Entrecot de ternera
+Peñón de Zahara Restaurante,Chuletitas de cordero lechal,17.0,Chuletitas de cordero lechal
+Peñón de Zahara Restaurante,Tarta de queso con miel,5.0,"Queso,    honey  "
+Peñón de Zahara Restaurante,Tarta tres chocolates,4.5,"Capas de chocolate,    cream  "
+Peñón de Zahara Restaurante,Tarta de pistacho,5.0,"Pistachio,    cream  "
+Las Murallas Restaurante,Gazpacho andaluz,4.5,"Pepino,    tomato,    pepper,    olive oil  "
+Las Murallas Restaurante,Salmorejo cordobés,6.0,"Tomate,    bread,    garlic,    olive oil  "
+Las Murallas Restaurante,Rabo de toro,18.0,"Bulls tail,    wine sauce  "
+Las Murallas Restaurante,Paella de mariscos,24.0,"Mariscos,    rice,    saffron  "
+Las Murallas Restaurante,Paella de carne,22.0,"Meat,    rice,    saffron  "
+Las Murallas Restaurante,Paella mixta,20.0,"Meat,    seafood,    rice,    saffron  "
+Las Murallas Restaurante,Paella vegetariana,18.0,"Arroz,    vegetables,    saffron  "
+Las Murallas Restaurante,Bacalao confitado a la naranja,15.0,"Bacalao,    orange,    olive oil  "
+Las Murallas Restaurante,Merluza de pincho a la marinera,18.0,"Merluza,    seafood sauce  "
+Las Murallas Restaurante,Pez espada a la casera con gambas,14.0,"Pez espada,    prawns,    homemade sauce  "
+Las Murallas Restaurante,Secreto ibérico a la plancha,18.0,Iberian pork low shoulder cut  
+Las Murallas Restaurante,Presa de cerdo ibérico,18.0,Iberian pork prey  
+Las Murallas Restaurante,Chuletón de ternera añojo,24.0,Yearling veal steak  
+Las Murallas Restaurante,Solomillo de ternera añojo,24.0,Yearling beef sirloin  
+Las Murallas Restaurante,Entrecot de ternera,24.0,Entrecot de ternera
+Las Murallas Restaurante,Chuletitas de cordero lechal,17.0,Chuletitas de cordero lechal
+Las Murallas Restaurante,Tarta de queso con miel,5.0,"Queso,    honey  "
+Las Murallas Restaurante,Tarta tres chocolates,4.5,"Capas de chocolate,    cream  "
+Las Murallas Restaurante,Tarta de pistacho,5.0,"Pistachio,    cream  "
+El Almendral Restaurante,Huevos con chorizo y jamón,11.0,"Chorizo,  Jamón ibérico,    eggs,    potatoes  "
+El Almendral Restaurante,Revuelto del pastor,12.0,"Bacon,    chorizo,    potatoes,    fried pepper,    egg  "
+El Almendral Restaurante,Revuelto de bacalao,14.0,"Bacalao,    scrambled eggs,    olive oil  "
+El Almendral Restaurante,Gazpacho andaluz,4.5,"Pepino,    tomato,    pepper,    olive oil  "
+El Almendral Restaurante,Salmorejo cordobés,6.0,"Tomate,    bread,    garlic,    olive oil  "
+El Almendral Restaurante,Paella de mariscos,24.0,"Mariscos,    rice,    saffron  "
+El Almendral Restaurante,Paella de carne,22.0,"Meat,    rice,    saffron  "
+El Almendral Restaurante,Paella mixta,20.0,"Meat,    seafood,    rice,    saffron  "
+El Almendral Restaurante,Paella vegetariana,18.0,"Arroz,    vegetables,    saffron  "
+El Almendral Restaurante,Secreto ibérico a la plancha,18.0,Iberian pork low shoulder cut  
+El Almendral Restaurante,Presa de cerdo ibérico,18.0,Iberian pork prey  
+El Almendral Restaurante,Chuletón de ternera añojo,24.0,Yearling veal steak  
+El Almendral Restaurante,Solomillo de ternera añojo,24.0,Yearling beef sirloin  
+El Almendral Restaurante,Entrecot de ternera,24.0,Entrecot de ternera
+El Almendral Restaurante,Chuletitas de cordero lechal,17.0,Chuletitas de cordero lechal
+El Almendral Restaurante,Tarta de queso con miel,5.0,"Queso,    honey  "
+El Almendral Restaurante,Tarta tres chocolates,4.5,"Capas de chocolate,    cream  "
+El Almendral Restaurante,Tarta de pistacho,5.0,"Pistachio,    cream  "
+Cabeza de Toro Restaurante,Tarta tres chocolates,4.5,"Capas de chocolate,    cream  "
+Cabeza de Toro Restaurante,Tarta de pistacho,5.0,"Pistachio,    cream  "
+Cabeza de Toro Restaurante,Tarta de galletas Lotus,4.5,Lotus cookies  
+Cabeza de Toro Restaurante,Tarta de queso y chocolate blanco,5.0,"White chocolate,    cheese  "
+Cabeza de Toro Restaurante,Tarta de queso con miel,5.0,"Queso,    honey  "
+Cabeza de Toro Restaurante,Tocino de cielo,4.0,"Egg yolk,    syrup  "
+Cabeza de Toro Restaurante,Flan casero,3.5,"Huevo,    caramel  "
+Cabeza de Toro Restaurante,Crema de higo sobre helado,4.0,"Figs,    ice cream  "
+Cabeza de Toro Restaurante,Rabo de toro,18.0,"Bulls tail,    wine sauce  "
+Cabeza de Toro Restaurante,Carrillada de cerdo ibérico en salsa,13.0,"Iberian pork cheeks,    sauce  "
+Cabeza de Toro Restaurante,Punta de solomillo ibérico al oporto,16.0,"Iberian sirloin tip,    Oporto style  "
+Cabeza de Toro Restaurante,Solomillo de cerdo a la casera,16.0,"Pork sirloin steak,    homemade sauce  "
+Cabeza de Toro Restaurante,Secreto ibérico a la plancha,18.0,Iberian pork low shoulder cut  
+Cabeza de Toro Restaurante,Presa de cerdo ibérico,18.0,Iberian pork prey  
+Cabeza de Toro Restaurante,Lagartito de cerdo ibérico,18.0,Iberian pork rib-loin strip  
+Cabeza de Toro Restaurante,Abanico de cerdo ibérico,18.0,Iberian pork rib cover  
+Cabeza de Toro Restaurante,Chuletón de ternera añojo,24.0,Yearling veal steak  
+Cabeza de Toro Restaurante,Solomillo de ternera añojo,24.0,Yearling beef sirloin  
+Cabeza de Toro Restaurante,Entrecot de ternera,24.0,Entrecot de ternera
+Cabeza de Toro Restaurante,Chuletitas de cordero lechal,17.0,Chuletitas de cordero lechal
+Cabeza de Toro Restaurante,Paella de mariscos,24.0,"Mariscos,    rice,    saffron  "
+Cabeza de Toro Restaurante,Paella de carne,22.0,"Meat,    rice,    saffron  "
+Cabeza de Toro Restaurante,Paella mixta,20.0,"Meat,    seafood,    rice,    saffron  "
+Cabeza de Toro Restaurante,Paella vegetariana,18.0,"Arroz,    vegetables,    saffron  "
+Cabeza de Toro Restaurante,Pez espada a la casera con gambas,14.0,"Pez espada,    prawns,    homemade sauce  "
+Cabeza de Toro Restaurante,Pez espada a la plancha,13.0,Pez espada
+Cabeza de Toro Restaurante,Merluza de pincho a la marinera,18.0,"Merluza,    seafood sauce  "
+Cabeza de Toro Restaurante,Bacalao confitado a la naranja,15.0,"Bacalao,    orange,    olive oil  "
+Cabeza de Toro Restaurante,Calamar a la plancha,20.0,Grilled squid  
+Cabeza de Toro Restaurante,Huevos de chocos al ajillo,12.0,"Huevos de choco,    garlic  "
+Cabeza de Toro Restaurante,Gazpacho andaluz,4.5,"Pepino,    tomato,    pepper,    olive oil  "
+Cabeza de Toro Restaurante,Salmorejo cordobés,6.0,"Tomate,    bread,    garlic,    olive oil  "
+Cabeza de Toro Restaurante,Huevos revueltos con chorizo y jamón,11.0,"Chorizo,  Jamón ibérico,    eggs,    potatoes  "
+Cabeza de Toro Restaurante,Revuelto de bacalao,14.0,"Bacalao,    scrambled eggs,    olive oil  "
+Cabeza de Toro Restaurante,Revuelto del pastor,12.0,"Bacon,    chorizo,    potatoes,    fried pepper,    egg  "
+El Aljive Restaurante,Gazpacho andaluz,4.5,"Pepino,    tomato,    pepper,    olive oil  "
+El Aljive Restaurante,Salmorejo cordobés,6.0,"Tomate,    bread,    garlic,    olive oil  "
+El Aljive Restaurante,Rabo de toro,18.0,"Bulls tail,    wine sauce  "
+El Aljive Restaurante,Paella de mariscos,24.0,"Mariscos,    rice,    saffron  "
+El Aljive Restaurante,Paella de carne,22.0,"Meat,    rice,    saffron  "
+El Aljive Restaurante,Paella mixta,20.0,"Meat,    seafood,    rice,    saffron  "
+El Aljive Restaurante,Paella vegetariana,18.0,"Arroz,    vegetables,    saffron  "
+El Aljive Restaurante,Bacalao confitado a la naranja,15.0,"Bacalao,    orange,    olive oil  "
+El Aljive Restaurante,Merluza de pincho a la marinera,18.0,"Merluza,    seafood sauce  "
+El Aljive Restaurante,Pez espada a la casera con gambas,14.0,"Pez espada,    prawns,    homemade sauce  "
+El Aljive Restaurante,Secreto ibérico a la plancha,18.0,Iberian pork low shoulder cut  
+El Aljive Restaurante,Presa de cerdo ibérico,18.0,Iberian pork prey  
+El Aljive Restaurante,Chuletón de ternera añojo,24.0,Yearling veal steak  
+El Aljive Restaurante,Solomillo de ternera añojo,24.0,Yearling beef sirloin  
+El Aljive Restaurante,Entrecot de ternera,24.0,Entrecot de ternera
+El Aljive Restaurante,Chuletitas de cordero lechal,17.0,Chuletitas de cordero lechal
+El Aljive Restaurante,Tarta de queso con miel,5.0,"Queso,    honey  "
+El Aljive Restaurante,Tarta tres chocolates,4.5,"Capas de chocolate,    cream  "
+El Aljive Restaurante,Tarta de pistacho,5.0,"Pistachio,    cream  "
